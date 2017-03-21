@@ -1,0 +1,6 @@
+
+//这样设置。。地址是你的浏览器位置
+{          
+  "cmd" :["C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe","$file"],
+  "selector":["text.html"]
+}

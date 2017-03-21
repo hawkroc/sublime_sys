@@ -1,0 +1,33 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"ApacheConf.tmLanguage",
+		"ApplySyntax",
+		"Babel",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"ColorPicker",
+		"DocBlockr",
+		"Ecmascript Syntax",
+		"Emmet",
+		"Git",
+		"HTML-CSS-JS Prettify",
+		"JavaScript Completions",
+		"Markdown Preview",
+		"MarkdownEditing",
+		"Material Theme",
+		"Package Control",
+		"PlainTasks",
+		"Pretty JSON",
+		"ReactJS",
+		"SCSS",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-jshint",
+		"Sublimerge Pro"
+	]
+}
